@@ -30,3 +30,6 @@ To save Metadata:
 var metadata = {name: 'Jon', id: 123}
 var textbody = MTD.saveMetaData(text, metadata)
 ```
+
+## Storage
+The metadata block will be appended to the end of the document if it does not currently exist, or it will be updated in place, where it is in the document
