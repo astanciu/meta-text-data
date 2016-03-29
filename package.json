@@ -1,6 +1,6 @@
 {
   "name": "meta-text-data",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Store custom metadata in text fields",
   "main": "lib/index.js",
   "directories": {
