@@ -1,7 +1,7 @@
 {
   "name": "meta-text-data",
   "version": "1.0.3",
-  "description": "",
+  "description": "Store custom metadata in text fields",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
@@ -13,7 +13,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords":["metadata","custom field","github custom field","custom metadata","text metadata","github yaml","yaml"],
+  "bugs": "https://github.com/astanciu/meta-text-data",
+  "repository" :
+    { "type" : "git"
+    , "url" : "https://github.com/astanciu/meta-text-data.git"
+    },
   "author": "Alex Stanciu <alex@auth0.com>",
   "license": "MIT"
 }
