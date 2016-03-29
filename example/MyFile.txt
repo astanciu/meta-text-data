@@ -1,0 +1,12 @@
+## Example 
+This is an example file that has metadata in it
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia, nibh eu sodales vehicula, ligula dui porta mauris, quis consequat elit orci et orci. Nulla dignissim interdum pretium. Sed commodo finibus ex ac gravida. Cras quis commodo augue, ut tempus augue. Maecenas libero lectus, maximus et interdum at, volutpat eu ante. Morbi nec varius odio, et imperdiet odio. Donec laoreet purus sed erat mollis, sit amet sodales enim suscipit. Sed finibus eros nec dapibus sollicitudin. Duis eros eros, accumsan vestibulum pharetra id, dictum non velit. Mauris convallis magna a ultrices tincidunt. Curabitur tincidunt lacus vel aliquam commodo. Duis vestibulum posuere ex, volutpat faucibus nibh porttitor id. Nam imperdiet dictum nulla vel cursus.
+
+
+
+<!-- metadata
+uuid: 46ebea8a-f5ee-11e5-9ce9-5e5517507c66
+updated: 2016-03-29T20:40:27.997Z
+user: {name: 'Jon Doe', age: 20, image: jondoe.jpg}
+-->
