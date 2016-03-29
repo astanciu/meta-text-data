@@ -1,0 +1,19 @@
+{
+  "name": "meta-text-data",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "yamljs": "^0.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Stanciu <alex@auth0.com>",
+  "license": "MIT"
+}
